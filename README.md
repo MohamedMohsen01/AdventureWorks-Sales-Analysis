@@ -17,6 +17,6 @@ Created a detailed overview of sales categorized by products. This analysis will
 
 Developed a detailed overview of sales categorized by customers. This analysis will identify high-value customers and enable the company to focus on retaining them. Additionally, it will help identify customers who make frequent purchases, providing opportunities for further sales.
 
-Created a visually appealing dashboard that tracks key performance indicators (KPIs) such as sales,  Budget, profit. This will enable the company to make data-driven decisions by identifying the best-selling customers and products.
+Created a visually appealing dashboard that tracks key performance indicators (KPIs) such as sales,  Budget, and profit. This will enable the company to make data-driven decisions by identifying the best-selling customers and products.
 
 By achieving these project goals, Adventure Works will gain a comprehensive understanding of its sales performance, identify key areas for improvement, and enhance its overall decision-making process.
