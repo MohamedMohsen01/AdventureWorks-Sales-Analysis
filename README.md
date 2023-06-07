@@ -23,3 +23,6 @@ Generate a detailed report on sales categorized by products, facilitating identi
 - Created a visually appealing dashboard that tracks key performance indicators (KPIs) such as sales,  Budget, and profit. This will enable the company to make data-driven decisions by identifying the best-selling customers and products.
 
 - By achieving these project goals, Adventure Works will gain a comprehensive understanding of its sales performance, identify key areas for improvement, and enhance its overall decision-making process.
+
+## Dashboard
+For the dashboard, please feel free to visit my [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYTBjY2Y0MTktMDk2My00N2M0LTlhMjctMmNmZmZlOGIzODZmIiwidCI6IjMzODU0OWQ1LThiMDgtNDdlMS1iOGQyLWJlNTIwZTJiM2FkNSJ9&pageName=ReportSection)
